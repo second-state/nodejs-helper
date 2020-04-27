@@ -1,6 +1,6 @@
 [package]
 name = "nodejs-helper"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Shishuo Wang", "Michael Yuan"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
