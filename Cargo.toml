@@ -1,6 +1,6 @@
 [package]
 name = "nodejs-helper"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Shishuo Wang", "Michael Yuan"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
@@ -13,7 +13,7 @@ description = "Call Node.js functions from Rust"
 [lib]
 name = "nodejs_helper"
 path = "src/lib.rs"
-crate-type =["cdylib"]
+crate-type =["lib"]
 
 [dependencies]
 wasm-bindgen = "^0.2"
