@@ -9,6 +9,8 @@ documentation = "https://cloud.secondstate.io/server-side-webassembly/rust-and-j
 homepage = "https://cloud.secondstate.io/"
 readme = "README.md"
 description = "Call Node.js functions from Rust"
+categories = ["filesystem", "database", "web-programming", "development-tools", "wasm"]
+keywords = ["nodejs", "WebAssembly", "wasm", "second-state", "javascript"]
 
 [lib]
 name = "nodejs_helper"
